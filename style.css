@@ -4,7 +4,7 @@ body{
 }
 
 .container{
-    width: 95%;
+    width: 92%;
     height: 100vh;
     margin: auto;
     display:flex;
@@ -24,21 +24,21 @@ body{
 #userInput{
     font-size: 20px;
     box-sizing: border-box;
-    width: 92%;
+    width: 97.5%;
     padding: 40px 5px;
     background-color: whitesmoke;
     text-align: right;
     direction: ltr;
     outline: none;
-    border:none;
+    border: 0.5px rgba(0, 0, 0, 0.11) solid;
 }
 
 .btn{
     font-size: 25px;
-    width: 22%;
+    width: 23.46%;
     height: 45px;
     border-radius: 1px;
-    border: none;
+    border: 0.5px rgba(0, 0, 0, 0.11) solid;
     outline: none;
     margin-top: 3px;
     background: whitesmoke;
@@ -46,11 +46,11 @@ body{
 
 
 .btnEqual{
-    font-size: 20px;
-    width: 99.2%;
+    font-size: 25px;
+    width: 97.5%;
     height: 45px;
     border-radius: 1px;
-    border: none;
+    border: 0.5px rgba(0, 0, 0, 0.11) solid;
     outline: none;
     margin-top: 3px;
     background: whitesmoke;
